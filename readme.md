@@ -1,3 +1,6 @@
+I have a prototype in hkx2e library in testing just lots going on 
+
+
 this is a standalone build of my hkanno replacement I am writing as part of a larger project for animation file management
 
 reason: hkanno is slow, hard to use in a batch way, and requires a specific hct setup
