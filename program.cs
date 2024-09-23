@@ -14,7 +14,7 @@ class Program
     // Configuration'
     private static readonly string RootDARDirectory = @"meshes\actors\character\animations\DynamicAnimationReplacer\_CustomConditions";
     private static readonly string RootOARDirectory = @"meshes\actors\character\animations\OpenAnimationReplacer";
-    private static readonly string RootDirectory = @"F:\nefa\mods\4D Framework\meshes\actors\character\animations\OpenAnimationReplacer_backup";
+    private static readonly string RootDirectory = @"";
     private static readonly string FileFilter = "*.hkx";
     private static readonly Dictionary<Regex, string> AnnotationReplacements = new Dictionary<Regex, string>
     {
